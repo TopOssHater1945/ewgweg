@@ -1,18 +1,18 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
+    "id": 38754426,
+    "name": "KillBot",
+    "author": "BoldStep",
+    "creators": ["Conix", "Babuskax3d", "Guido98"],
+    "verifier": "KingSammelot",
+    "verification": "https://www.youtube.com/watch?v=I1_yfoHOrbQ",
+    "percentToQualify": 100,
     "password": "Not Copyable",
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
+            "user": "Henk432452",
+            "link": "https://www.youtube.com/watch?v=Aq5WXmQQooo",
             "percent": 100,
-            "hz": 360
+            "hz": 2900
         }
     ]
 }
